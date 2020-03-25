@@ -1,0 +1,22 @@
+﻿
+.login {
+
+    width: 1000px;
+    height: 600px;
+    margin-left: 760px;
+   
+}
+.hola{
+    border-width:2px;
+    border-color:black;
+    border-style:solid;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.body{
+
+    background-image:url('../images/foto.jpeg');
+
+}

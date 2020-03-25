@@ -1,0 +1,88 @@
+﻿@model ProductoViewModel
+ 
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Producto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoMedicamentoID" class="control-label"></label>
+                <select asp-for="TipoMedicamentoID" class="form-control" asp-items="ViewBag.TipoMedicamentoID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Laboratorio" class="control-label"></label>
+                <input asp-for="Laboratorio" class="form-control" />
+                <span asp-validation-for="Laboratorio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio" class="control-label"></label>
+                <input asp-for="Precio" class="form-control" />
+                <span asp-validation-for="Precio" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lote" class="control-label"></label>
+                <input asp-for="Lote" class="form-control" />
+                <span asp-validation-for="Lote" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photo" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <div class="custom-file">
+                        <input asp-for="Photo" class="form-control custom-file-input" />
+                        <label class="custom-file-label">Escoger el Archivo</label>
+                          <img id="preview" class="thumbnail col-md-6"/>
+                    </div>
+                  
+                </div>
+                </div>
+          
+            <div class="form-group">
+                <label asp-for="FechaVencimiento" class="control-label"></label>
+                <input asp-for="FechaVencimiento" class="form-control" />
+                <span asp-validation-for="FechaVencimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+ @section Scripts { 
+  <script>
+    $(function () {
+        $('.custom-file-input').change(function (e) {
+            var fileName = $(this).val().split("\\").pop(); $(this).next('.custom-file-label').html(fileName); addImage(e);
+        });
+        function addImage(e) {
+            var file = e.target.files[0], imageType = /image.*/;
+
+            if (!file.type.match(imageType)) return; var reader = new FileReader();
+                    reader.onload = fileOnload;
+                     reader.readAsDataURL(file);
+        }
+        function fileOnload(e) {
+            var result = e.target.result; $('#preview').attr("src", result); var salida = $('#preview').files[0].name;
+
+        }
+    });
+   
+</script>
+ } 

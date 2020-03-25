@@ -1,0 +1,92 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+
+<link rel="stylesheet" href="~/css/aos.css" />
+<link rel="stylesheet" href="~/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/jquery-ui.css" />
+<link rel="stylesheet" href="~/css/magnific-popup.css" />
+<link rel="stylesheet" href="~/css/owl.carousel.min.css" />
+<link rel="stylesheet" href="~/css/owl.theme.default.min.css" />
+<link rel="stylesheet" href="~/css/style.css" />
+<link rel="stylesheet" href="~/fonts/icomoon/style.css" />
+
+<div class="site-section" style="background-color:#f3f3f3">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-md-12">
+                <div class="bg-light rounded p-3">
+                    <p class="mb-0">¿No te has registrado? <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="d-inline-block">click Aqui</a> Para Registrarte</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 mb-5 mb-md-0">
+                <div class="p-3 p-lg-5 border">
+
+                    <form id="account" method="post">
+                        <hr />
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="form-group-row">
+                            <div class="col-md-12">
+                                <label asp-for="Input.Email"></label>
+                                <input asp-for="Input.Email" class="form-control" />
+                                <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group-row">
+                            <div class="col-md-12">
+                                <label asp-for="Input.Password"></label>
+                                <input asp-for="Input.Password" class="form-control" />
+                                <span asp-validation-for="Input.Password" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group-row">
+                            <div class="col-md-12">
+                                <div class="checkbox">
+                                    <label asp-for="Input.RememberMe">
+                                        <input asp-for="Input.RememberMe" />
+                                        @Html.DisplayNameFor(m => m.Input.RememberMe)
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group-row">
+                            <div class="col-md-12">
+                                <button type="submit" class="btn btn-primary px-3 py-3">Iniciar Sesion</button>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <a id="forgot-password" asp-page="./ForgotPassword">Olvido su contraseña</a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-6">
+
+                <div class="row mb-5">
+                    <div class="col-md-12">
+                        <div class="p-3 p-lg-5 border">
+
+                            <a href="#" class="banner-1 h-100 d-flex" style="background-image: url('https://www.revistaneo.com/sites/default/files/2019-04/5%20puntos%20de%20evoluci%C3%B3n%20del%20retail%20de%20farmacias.jpg');">
+                                
+                </a>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

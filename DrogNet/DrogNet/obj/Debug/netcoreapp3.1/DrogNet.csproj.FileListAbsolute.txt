@@ -1,0 +1,671 @@
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.StaticWebAssets.xml
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.exe
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\staticwebassets\DrogNet.StaticWebAssets.Manifest.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\staticwebassets\DrogNet.StaticWebAssets.xml
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.TagHelpers.input.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.TagHelpers.output.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorCoreGenerate.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorTargetAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.csproj.CopyComplete
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.deps.json
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.runtimeconfig.json
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.pdb
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.Views.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.Views.pdb
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.Views.pdb
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.pdb
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Nosotros\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Productoes\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Productoes\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Productoes\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Productoes\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Productoes\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Index.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Create.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Delete.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Details.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Edit.cshtml.g.cs
+C:\Users\usuario\Desktop\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\appsettings.json
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.StaticWebAssets.xml
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.exe
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.deps.json
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.runtimeconfig.json
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.runtimeconfig.dev.json
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.pdb
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.Views.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.Views.pdb
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.csprojAssemblyReference.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\staticwebassets\DrogNet.StaticWebAssets.Manifest.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\staticwebassets\DrogNet.StaticWebAssets.xml
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.MvcApplicationPartsAssemblyInfo.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.MvcApplicationPartsAssemblyInfo.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorAssemblyInfo.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorAssemblyInfo.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.AssemblyInfoInputs.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.AssemblyInfo.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.TagHelpers.input.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.TagHelpers.output.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorCoreGenerate.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Nosotros\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Create.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorTargetAssemblyInfo.cache
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorTargetAssemblyInfo.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.Views.pdb
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.csproj.CopyComplete
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.dll
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.pdb
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+G:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ProductoViewModel.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\appsettings.json
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.StaticWebAssets.xml
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.exe
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.deps.json
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.runtimeconfig.json
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.runtimeconfig.dev.json
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.pdb
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.Views.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\DrogNet.Views.pdb
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.csprojAssemblyReference.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\staticwebassets\DrogNet.StaticWebAssets.Manifest.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\staticwebassets\DrogNet.StaticWebAssets.xml
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.MvcApplicationPartsAssemblyInfo.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.MvcApplicationPartsAssemblyInfo.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorAssemblyInfo.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorAssemblyInfo.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.AssemblyInfoInputs.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.AssemblyInfo.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.TagHelpers.input.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.TagHelpers.output.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorCoreGenerate.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Factura\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Nosotros\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Producto\ProductoViewModel.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\QuejaSugerencia\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoMedicamento\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\TipoPago\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\Vendedor\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Create.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Delete.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Details.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Edit.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\VentaProducto\Index.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorTargetAssemblyInfo.cache
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.RazorTargetAssemblyInfo.cs
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.Views.pdb
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.csproj.CopyComplete
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.dll
+F:\SENA\Asp.NET Lorena Quintero\Proyecto Core Final\DrogNet\DrogNet\obj\Debug\netcoreapp3.1\DrogNet.pdb

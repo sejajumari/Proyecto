@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DrogNet.Models.Producto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+<link href="~/css/productos.css" rel="stylesheet" />
+<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 my-4 mx-auto text-center">
+    <h1 class="display-4 mt-4">Lista de Productos</h1>
+    <p class="lead">Selecciona uno de nuestros productos </p>
+</div>
+
+
+@foreach (var item in Model)
+{
+    <div class="card mb-4 shadow-sm hola">
+        <div class="card-header text-center">
+
+
+            <h4 class="my-0 font-weight-bold">@Html.DisplayFor(modelItem => item.Nombre)</h4>
+        </div>
+        <div class="card-body text-center">
+
+            <h1 class="card-title pricing-card-title precio">$ <span class="">@Html.DisplayFor(modelItem => item.Precio)</span></h1>
+
+            <ul class="list-unstyled mt-3 mb-4">
+                <li></li>
+                <li>@Html.DisplayFor(modelItem => item.TipoMedicamento.Nombre)</li>
+
+            </ul>
+            <a asp-action="Details" asp-route-id="@item.ProductoID" class="btn btn-block btn-primary agregar-carrito" data-id="2">Ver producto</a>
+
+        </div>
+    </div>
+
+
+}
+
+
+
+
+
